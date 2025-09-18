@@ -1,0 +1,6 @@
+@Web_API_Using_ADO_NET_HostAddress = http://localhost:5163
+
+GET {{Web_API_Using_ADO_NET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
